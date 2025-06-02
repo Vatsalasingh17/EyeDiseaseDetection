@@ -1,0 +1,6 @@
+{
+  "input_size": [224, 224, 3],
+  "num_classes": 5,
+  "base_model": "EfficientNetB0",
+  "accuracy": 0.87
+}
